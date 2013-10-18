@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.source_files  = 'Smartling.i18n/**/*.{h,m}'
+  s.source_files  = 'Smartling.i18n'
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
